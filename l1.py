@@ -68,7 +68,7 @@ for _ in range(20):  #number of rotations
 if txt['status'] == 'success':
     print("""\n\033[1;32m♡    ∩_∩ 
 ╭ („• ֊ •„)♡ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╮
-     U UYour Ip informstion here...\033[0m""")
+     U U Your Ip informstion here...\033[0m""")
     print(f"\033[1;33mIP Address   : \033[1;36m{txt['query']}\033[0m")
     print(f"\033[1;33mCountry      : \033[1;36m{txt['country']} ({txt['countryCode']})\033[0m")
     print(f"\033[1;33mRegion       : \033[1;36m{txt['regionName']} ({txt['region']})\033[0m")

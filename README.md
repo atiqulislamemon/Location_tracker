@@ -10,7 +10,7 @@ pkg update && pkg upgrade
   </details>
 
   <details>
-  <summary><strong>git & bc</strong></summary>
+  <summary><strong>git</strong></summary>
 
 - Package `git` for cloning or downloading repository
 
@@ -26,7 +26,7 @@ pkg install git
   <summary><strong>Clone or Download This Repository</strong></summary>
 
 ```bash
-https://github.com/atiqulislamemon/Location_tracker
+git clone https://github.com/atiqulislamemon/Location_tracker
 ```
 
   </details>
@@ -44,6 +44,7 @@ cd Location_tracker
 ```bash
 python Location_tracker.py
 ```
+  </details>
 
 <br>.
 ## 🌐 Socials:

@@ -13,7 +13,7 @@ $ pip2 install requests
 $ pkg install git
 $ git clone https://github.com/atiqulislamemon/Location_tracker
 $ cd Location_tracker
-$ python l1.py
+$ python Location_tracker.py
 ```
 </br>.
 ## 🌐 Socials:

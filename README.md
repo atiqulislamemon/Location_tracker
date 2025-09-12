@@ -1,20 +1,50 @@
 # 💫 About Me:
 Hi I'm Atiqul Islam Emon .<br>thanks for choosing my tools.. I'm trying to learn python..<br>And my all tools is so simple and open source. You can use my all tools educational parpus only.
+<details open>
+  <summary><strong>Update Repository & Upgrade Package</strong></summary>
 
-## <b>installation</b>
+```bash
+pkg update && pkg upgrade
+```
 
+  </details>
+
+  <details>
+  <summary><strong>git & bc</strong></summary>
+
+- Package `git` for cloning or downloading repository
+
+```bash
+pkg install git
 ```
-Command .
-$ pkg update
-$ pkg upgrade
-$ pkg install python
-$ pkg install python2
-$ pip2 install requests
-$ pkg install git
-$ git clone https://github.com/atiqulislamemon/Location_tracker
-$ cd Location_tracker
-$ python Location_tracker.py
+
+  </details>
+
+## Installation ip tracker tools.
+
+  <details open>
+  <summary><strong>Clone or Download This Repository</strong></summary>
+
+```bash
+https://github.com/atiqulislamemon/Location_tracker
 ```
+
+  </details>
+
+  <details>
+  <summary><strong>Run Script Installer</strong></summary>
+
+- Move to Folder
+
+```bash
+cd Location_tracker
+```
+-Run location tracker tools.
+
+```bash
+python Location_tracker.py
+```
+
 </br>.
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/atiqulislam8) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/atiqulislam_emon) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/atiqulislamemon) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@atiqulislamemon) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/atiqul_islam0) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@md.atiqulislamemon) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atiqulislam.emon214@gmail.com) 
